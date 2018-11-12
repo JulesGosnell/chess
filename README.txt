@@ -1,3 +1,19 @@
+--------------------------------------------------------------------------------
+
+This was written as a piece of demo work to win a contract with a customer.
+
+The next fastest submission was written in Scala and took 20 mins to run.
+
+Mine was the fastest, written in Clojure and running in under 5 seconds.
+
+--------------------------------------------------------------------------------
+
+- git clone https://github.com/JulesGosnell/chess.git
+- lein uberjar
+- follow instructions below
+
+--------------------------------------------------------------------------------
+
 
 SOLUTION:
 
